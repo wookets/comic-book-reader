@@ -1,0 +1,23 @@
+{
+  "name": "comic-book-reader",
+  "version": "1.0.0",
+  "description": "A browser based comic book reader.",
+  "url": "https://github.com/wookets/comic-book-reader",
+  "email": "wookets@gmail.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "comics",
+    "reader",
+    "html"
+  ],
+  "author": "wookets",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
